@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Registro - Sueños Valenti</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body class="<%= tema %>">
+
+<h2>Registro Espiritual</h2>
+
+<% if(errores && errores.length > 0) { %>
+    <ul class="error">
+        <% errores.forEach(e => { %>
+            <li><%= e %></li>
+        <% }) %>
+    </ul>
+<% } %>
+
+<form action="/registro" method="POST">
+    <input type="text" name="nombre" placeholder="Nombre" required><br>
+    <input type="email" name="email" placeholder="Email" required><br>
+    <input type="number" name="edad" placeholder="Edad" required><br>
+    <input type="text" name="ciudad" placeholder="Ciudad"><br>
+    <label><input type="checkbox" name="intereses" value="meditacion"> Meditación</label>
+    <label><input type="checkbox" name="intereses" value="astrologia"> Astrología</label><br>
+    <button type="submit">Unirse</button>
+</form>
+
+<a href="/">Volver al inicio</a>
+
+</body>
+</html>

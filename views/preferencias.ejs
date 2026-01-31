@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Preferencias - Sueños Valenti</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body class="<%= tema %>">
+
+<h2>Preferencias</h2>
+<p>Tema actual: <strong><%= tema %></strong></p>
+
+<form action="/preferencias" method="POST">
+    <select name="tema">
+        <option value="light" <%= tema === 'light' ? 'selected' : '' %>>Claro</option>
+        <option value="dark" <%= tema === 'dark' ? 'selected' : '' %>>Oscuro</option>
+    </select>
+    <button type="submit">Guardar</button>
+</form>
+
+<a href="/">Volver al inicio</a>
+
+</body>
+</html>

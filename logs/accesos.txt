@@ -1,0 +1,418 @@
+[2026-01-30T23:32:01.546Z] Acceso a: /
+[2026-01-30T23:32:04.181Z] Acceso a: /login
+[2026-01-30T23:32:06.638Z] Acceso a: /registro
+[2026-01-30T23:32:34.278Z] Acceso a: /registro
+[2026-01-30T23:32:34.285Z] Acceso a: /login
+[2026-01-30T23:32:42.541Z] Acceso a: /login
+[2026-01-30T23:32:42.548Z] Acceso a: /perfil
+[2026-01-30T23:32:53.395Z] Acceso a: /logout
+[2026-01-30T23:32:53.401Z] Acceso a: /
+[2026-01-30T23:32:55.112Z] Acceso a: /registro
+[2026-01-30T23:32:59.918Z] Acceso a: /preferencias
+[2026-01-30T23:33:04.459Z] Acceso a: /preferencias
+[2026-01-30T23:33:04.465Z] Acceso a: /preferencias
+[2026-01-30T23:33:06.046Z] Acceso a: /preferencias
+[2026-01-30T23:33:06.051Z] Acceso a: /preferencias
+[2026-01-30T23:33:06.908Z] Acceso a: /
+[2026-01-30T23:33:07.501Z] Acceso a: /perfil
+[2026-01-30T23:33:07.506Z] Acceso a: /login
+[2026-01-30T23:33:14.522Z] Acceso a: /login
+[2026-01-30T23:33:14.527Z] Acceso a: /perfil
+[2026-01-30T23:33:22.239Z] Acceso a: /login
+[2026-01-30T23:33:22.246Z] Acceso a: /perfil
+[2026-01-30T23:33:23.615Z] Acceso a: /logout
+[2026-01-30T23:33:23.620Z] Acceso a: /
+[2026-01-30T23:33:24.747Z] Acceso a: /login
+[2026-01-30T23:33:31.609Z] Acceso a: /login
+[2026-01-30T23:33:37.843Z] Acceso a: /login
+[2026-01-30T23:33:37.848Z] Acceso a: /perfil
+[2026-01-30T23:33:48.314Z] Acceso a: /logout
+[2026-01-30T23:33:48.319Z] Acceso a: /
+[2026-01-30T23:33:57.344Z] Acceso a: /perfil
+[2026-01-30T23:33:57.356Z] Acceso a: /login
+[2026-01-30T23:33:59.679Z] Acceso a: /login
+[2026-01-30T23:34:02.659Z] Acceso a: /login
+[2026-01-30T23:34:04.225Z] Acceso a: /login
+[2026-01-30T23:34:08.474Z] Acceso a: /login
+[2026-01-30T23:34:08.479Z] Acceso a: /perfil
+[2026-01-30T23:34:15.244Z] Acceso a: /logout
+[2026-01-30T23:34:15.249Z] Acceso a: /
+[2026-01-30T23:34:19.353Z] Acceso a: /perfil
+[2026-01-30T23:34:19.358Z] Acceso a: /login
+[2026-01-30T23:34:21.840Z] Acceso a: /perfil
+[2026-01-30T23:34:21.844Z] Acceso a: /login
+[2026-01-30T23:34:27.235Z] Acceso a: /login
+[2026-01-30T23:34:30.250Z] Acceso a: /preferencias
+[2026-01-30T23:34:33.772Z] Acceso a: /preferencias
+[2026-01-30T23:34:33.777Z] Acceso a: /preferencias
+[2026-01-30T23:34:38.572Z] Acceso a: /preferencias
+[2026-01-30T23:34:38.578Z] Acceso a: /preferencias
+[2026-01-30T23:34:40.892Z] Acceso a: /
+[2026-01-30T23:34:44.822Z] Acceso a: /preferencias
+[2026-01-30T23:34:46.083Z] Acceso a: /
+[2026-01-30T23:34:46.678Z] Acceso a: /perfil
+[2026-01-30T23:34:46.683Z] Acceso a: /login
+[2026-01-30T23:34:48.787Z] Acceso a: /login
+[2026-01-30T23:41:20.311Z] Acceso a: /
+[2026-01-30T23:41:27.095Z] Acceso a: /login
+[2026-01-30T23:41:31.595Z] Acceso a: /login
+[2026-01-30T23:41:31.602Z] Acceso a: /perfil
+[2026-01-30T23:41:37.357Z] Acceso a: /preferencias
+[2026-01-30T23:41:40.323Z] Acceso a: /preferencias
+[2026-01-30T23:41:40.328Z] Acceso a: /preferencias
+[2026-01-30T23:41:42.313Z] Acceso a: /preferencias
+[2026-01-30T23:41:42.318Z] Acceso a: /preferencias
+[2026-01-30T23:41:43.895Z] Acceso a: /preferencias
+[2026-01-30T23:41:43.901Z] Acceso a: /preferencias
+[2026-01-30T23:41:44.588Z] Acceso a: /
+[2026-01-30T23:41:45.567Z] Acceso a: /preferencias
+[2026-01-30T23:41:46.439Z] Acceso a: /
+[2026-01-30T23:41:47.106Z] Acceso a: /sesiones
+[2026-01-30T23:41:50.310Z] Acceso a: /perfil
+[2026-01-30T23:41:57.427Z] Acceso a: /sesiones
+[2026-01-30T23:41:59.458Z] Acceso a: /preferencias
+[2026-01-30T23:42:04.079Z] Acceso a: /
+[2026-01-30T23:42:14.415Z] Acceso a: /sesiones
+[2026-01-30T23:42:15.837Z] Acceso a: /sesiones
+[2026-01-30T23:44:52.590Z] GET /
+[2026-01-30T23:44:55.025Z] GET /login
+[2026-01-30T23:44:58.916Z] POST /login
+[2026-01-30T23:44:58.922Z] GET /perfil
+[2026-01-30T23:45:01.096Z] GET /sesiones
+[2026-01-30T23:45:14.378Z] GET /perfil
+[2026-01-30T23:45:15.391Z] GET /preferencias
+[2026-01-30T23:45:17.291Z] GET /
+[2026-01-30T23:45:19.179Z] GET /sesiones
+[2026-01-30T23:45:20.001Z] GET /perfil
+[2026-01-30T23:45:21.280Z] GET /preferencias
+[2026-01-30T23:45:22.659Z] GET /
+[2026-01-30T23:45:23.656Z] GET /perfil
+[2026-01-30T23:45:24.738Z] POST /logout
+[2026-01-30T23:45:24.743Z] GET /
+[2026-01-30T23:47:53.170Z] GET /
+[2026-01-30T23:53:16.263Z] GET /
+[2026-01-30T23:53:24.680Z] GET /
+[2026-01-30T23:53:28.258Z] GET /login
+[2026-01-30T23:53:36.494Z] POST /login
+[2026-01-30T23:53:36.502Z] GET /perfil
+[2026-01-30T23:55:59.900Z] GET /
+[2026-01-30T23:56:01.739Z] GET /login
+[2026-01-30T23:56:06.323Z] POST /login
+[2026-01-30T23:56:06.329Z] GET /perfil
+[2026-01-30T23:56:12.328Z] GET /sesiones
+[2026-01-30T23:56:15.103Z] POST /sesiones/agregar
+[2026-01-30T23:56:15.104Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Sanación Energética Colectiva 🔮
+[2026-01-30T23:56:15.109Z] GET /sesiones
+[2026-01-30T23:56:16.469Z] GET /perfil
+[2026-01-30T23:56:20.010Z] GET /sesiones
+[2026-01-30T23:56:21.070Z] POST /sesiones/agregar
+[2026-01-30T23:56:21.075Z] GET /sesiones
+[2026-01-30T23:56:21.305Z] POST /sesiones/agregar
+[2026-01-30T23:56:21.309Z] GET /sesiones
+[2026-01-30T23:56:21.907Z] GET /perfil
+[2026-01-30T23:56:23.349Z] GET /preferencias
+[2026-01-30T23:56:25.389Z] POST /preferencias
+[2026-01-30T23:56:25.395Z] GET /preferencias
+[2026-01-30T23:56:26.157Z] GET /
+[2026-01-30T23:56:27.384Z] GET /sesiones
+[2026-01-30T23:56:28.866Z] POST /sesiones/agregar
+[2026-01-30T23:56:28.867Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Viaje Astral Guiado ✨
+[2026-01-30T23:56:28.872Z] GET /sesiones
+[2026-01-30T23:56:29.285Z] POST /sesiones/agregar
+[2026-01-30T23:56:29.286Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Meditación Lunar 🌙
+[2026-01-30T23:56:29.290Z] GET /sesiones
+[2026-01-30T23:56:30.138Z] GET /perfil
+[2026-01-30T23:56:33.639Z] GET /sesiones
+[2026-01-30T23:56:34.942Z] POST /sesiones/agregar
+[2026-01-30T23:56:34.947Z] GET /sesiones
+[2026-01-30T23:56:35.233Z] POST /sesiones/agregar
+[2026-01-30T23:56:35.239Z] GET /sesiones
+[2026-01-30T23:56:35.471Z] POST /sesiones/agregar
+[2026-01-30T23:56:35.483Z] GET /sesiones
+[2026-01-30T23:56:35.684Z] POST /sesiones/agregar
+[2026-01-30T23:56:35.690Z] GET /sesiones
+[2026-01-30T23:56:35.893Z] POST /sesiones/agregar
+[2026-01-30T23:56:35.898Z] GET /sesiones
+[2026-01-30T23:56:36.092Z] POST /sesiones/agregar
+[2026-01-30T23:56:36.097Z] GET /sesiones
+[2026-01-30T23:56:36.581Z] GET /perfil
+[2026-01-30T23:58:01.550Z] GET /perfil
+[2026-01-30T23:58:03.162Z] POST /sesiones/eliminar
+[2026-01-30T23:58:07.760Z] POST /sesiones/eliminar
+[2026-01-31T00:01:20.304Z] GET /
+[2026-01-31T00:01:22.945Z] POST /logout
+[2026-01-31T00:01:22.950Z] GET /
+[2026-01-31T00:01:23.967Z] GET /login
+[2026-01-31T00:01:27.147Z] POST /login
+[2026-01-31T00:01:27.151Z] GET /perfil
+[2026-01-31T00:01:30.842Z] GET /preferencias
+[2026-01-31T00:01:32.681Z] POST /preferencias
+[2026-01-31T00:01:32.686Z] GET /preferencias
+[2026-01-31T00:01:33.305Z] GET /
+[2026-01-31T00:01:37.164Z] GET /sesiones
+[2026-01-31T00:01:38.643Z] POST /sesiones/agregar
+[2026-01-31T00:01:38.644Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Meditación Lunar 🌙
+[2026-01-31T00:01:38.648Z] GET /sesiones
+[2026-01-31T00:01:39.467Z] GET /perfil
+[2026-01-31T00:01:40.886Z] POST /sesiones/eliminar
+[2026-01-31T00:03:12.980Z] POST /sesiones/eliminar
+[2026-01-31T00:03:25.657Z] GET /perfil
+[2026-01-31T00:03:25.670Z] GET /login
+[2026-01-31T00:03:29.293Z] POST /login
+[2026-01-31T00:03:29.299Z] GET /perfil
+[2026-01-31T00:03:31.044Z] GET /sesiones
+[2026-01-31T00:03:32.273Z] POST /sesiones/agregar
+[2026-01-31T00:03:32.274Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Meditación Lunar 🌙
+[2026-01-31T00:03:32.278Z] GET /sesiones
+[2026-01-31T00:03:32.842Z] GET /perfil
+[2026-01-31T00:03:33.626Z] POST /perfil/eliminar
+[2026-01-31T00:03:33.627Z] Usuario yo.y.punto.spam@gmail.com eliminó sesión: Meditación Lunar 🌙
+[2026-01-31T00:03:33.633Z] GET /perfil
+[2026-01-31T00:03:37.739Z] GET /preferencias
+[2026-01-31T00:03:39.735Z] GET /
+[2026-01-31T00:03:41.195Z] GET /perfil
+[2026-01-31T00:03:42.858Z] GET /sesiones
+[2026-01-31T00:03:43.733Z] POST /sesiones/agregar
+[2026-01-31T00:03:43.734Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Viaje Astral Guiado ✨
+[2026-01-31T00:03:43.739Z] GET /sesiones
+[2026-01-31T00:03:44.062Z] POST /sesiones/agregar
+[2026-01-31T00:03:44.062Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Meditación Lunar 🌙
+[2026-01-31T00:03:44.067Z] GET /sesiones
+[2026-01-31T00:03:44.416Z] POST /sesiones/agregar
+[2026-01-31T00:03:44.416Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Sanación Energética Colectiva 🔮
+[2026-01-31T00:03:44.421Z] GET /sesiones
+[2026-01-31T00:03:44.976Z] GET /perfil
+[2026-01-31T00:03:45.653Z] POST /perfil/eliminar
+[2026-01-31T00:03:45.653Z] Usuario yo.y.punto.spam@gmail.com eliminó sesión: Meditación Lunar 🌙
+[2026-01-31T00:03:45.657Z] GET /perfil
+[2026-01-31T00:03:46.010Z] POST /perfil/eliminar
+[2026-01-31T00:03:46.010Z] Usuario yo.y.punto.spam@gmail.com eliminó sesión: Viaje Astral Guiado ✨
+[2026-01-31T00:03:46.014Z] GET /perfil
+[2026-01-31T00:03:46.641Z] POST /perfil/eliminar
+[2026-01-31T00:03:46.641Z] Usuario yo.y.punto.spam@gmail.com eliminó sesión: Sanación Energética Colectiva 🔮
+[2026-01-31T00:03:46.646Z] GET /perfil
+[2026-01-31T00:03:48.475Z] GET /sesiones
+[2026-01-31T00:03:49.091Z] POST /sesiones/agregar
+[2026-01-31T00:03:49.091Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Viaje Astral Guiado ✨
+[2026-01-31T00:03:49.095Z] GET /sesiones
+[2026-01-31T00:03:49.347Z] POST /sesiones/agregar
+[2026-01-31T00:03:49.347Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Meditación Lunar 🌙
+[2026-01-31T00:03:49.352Z] GET /sesiones
+[2026-01-31T00:03:49.626Z] POST /sesiones/agregar
+[2026-01-31T00:03:49.627Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Sanación Energética Colectiva 🔮
+[2026-01-31T00:03:49.632Z] GET /sesiones
+[2026-01-31T00:03:50.061Z] GET /perfil
+[2026-01-31T00:03:53.948Z] GET /preferencias
+[2026-01-31T00:03:57.160Z] GET /
+[2026-01-31T00:03:59.956Z] GET /sesiones
+[2026-01-31T00:04:03.653Z] GET /perfil
+[2026-01-31T00:04:06.657Z] GET /sesiones
+[2026-01-31T00:04:07.574Z] GET /perfil
+[2026-01-31T00:04:08.522Z] GET /preferencias
+[2026-01-31T00:04:09.522Z] GET /
+[2026-01-31T00:04:12.538Z] GET /perfil
+[2026-01-31T00:04:14.735Z] POST /perfil/eliminar
+[2026-01-31T00:04:14.736Z] Usuario yo.y.punto.spam@gmail.com eliminó sesión: Viaje Astral Guiado ✨
+[2026-01-31T00:04:14.741Z] GET /perfil
+[2026-01-31T00:04:16.154Z] POST /perfil/eliminar
+[2026-01-31T00:04:16.155Z] Usuario yo.y.punto.spam@gmail.com eliminó sesión: Meditación Lunar 🌙
+[2026-01-31T00:04:16.159Z] GET /perfil
+[2026-01-31T00:04:16.707Z] POST /perfil/eliminar
+[2026-01-31T00:04:16.707Z] Usuario yo.y.punto.spam@gmail.com eliminó sesión: Sanación Energética Colectiva 🔮
+[2026-01-31T00:04:16.711Z] GET /perfil
+[2026-01-31T00:05:35.161Z] GET /perfil
+[2026-01-31T00:06:15.229Z] POST /logout
+[2026-01-31T00:06:15.236Z] GET /
+[2026-01-31T00:06:16.730Z] GET /login
+[2026-01-31T00:06:37.240Z] GET /login
+[2026-01-31T00:07:22.634Z] POST /login
+[2026-01-31T00:07:22.640Z] GET /perfil
+[2026-01-31T00:07:24.337Z] POST /logout
+[2026-01-31T00:07:24.342Z] GET /
+[2026-01-31T00:07:25.560Z] GET /login
+[2026-01-31T00:07:28.346Z] POST /login
+[2026-01-31T00:07:28.350Z] GET /perfil
+[2026-01-31T00:07:30.149Z] GET /sesiones
+[2026-01-31T00:07:31.525Z] POST /sesiones/agregar
+[2026-01-31T00:07:31.526Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Meditación Lunar 🌙
+[2026-01-31T00:07:31.530Z] GET /sesiones
+[2026-01-31T00:07:32.111Z] POST /sesiones/agregar
+[2026-01-31T00:07:32.112Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Viaje Astral Guiado ✨
+[2026-01-31T00:07:32.116Z] GET /sesiones
+[2026-01-31T00:07:34.047Z] GET /perfil
+[2026-01-31T00:07:37.307Z] POST /perfil/eliminar
+[2026-01-31T00:07:37.308Z] Usuario yo.y.punto.spam@gmail.com eliminó sesión: Meditación Lunar 🌙
+[2026-01-31T00:07:37.313Z] GET /perfil
+[2026-01-31T00:07:38.099Z] POST /perfil/eliminar
+[2026-01-31T00:07:38.100Z] Usuario yo.y.punto.spam@gmail.com eliminó sesión: Viaje Astral Guiado ✨
+[2026-01-31T00:07:38.107Z] GET /perfil
+[2026-01-31T00:08:00.374Z] GET /perfil
+[2026-01-31T00:08:11.255Z] GET /perfil
+[2026-01-31T00:09:24.920Z] POST /logout
+[2026-01-31T00:09:24.924Z] GET /
+[2026-01-31T00:09:26.015Z] GET /login
+[2026-01-31T00:09:54.404Z] POST /login
+[2026-01-31T00:09:56.842Z] GET /login
+[2026-01-31T00:09:58.382Z] GET /registro
+[2026-01-31T00:10:05.108Z] GET /
+[2026-01-31T00:10:09.704Z] GET /registro
+[2026-01-31T00:10:14.664Z] GET /
+[2026-01-31T00:10:16.530Z] GET /login
+[2026-01-31T00:10:21.429Z] POST /login
+[2026-01-31T00:10:21.435Z] GET /perfil
+[2026-01-31T00:10:23.086Z] GET /sesiones
+[2026-01-31T00:10:23.861Z] POST /sesiones/agregar
+[2026-01-31T00:10:23.862Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Sanación Energética Colectiva 🔮
+[2026-01-31T00:10:23.867Z] GET /sesiones
+[2026-01-31T00:10:24.964Z] GET /perfil
+[2026-01-31T00:10:26.442Z] POST /perfil/eliminar
+[2026-01-31T00:10:26.442Z] Usuario yo.y.punto.spam@gmail.com eliminó sesión: Sanación Energética Colectiva 🔮
+[2026-01-31T00:10:26.447Z] GET /perfil
+[2026-01-31T00:17:14.829Z] GET /
+[2026-01-31T00:17:19.536Z] GET /sesiones
+[2026-01-31T00:18:31.614Z] GET /
+[2026-01-31T00:18:35.335Z] GET /perfil
+[2026-01-31T00:18:46.463Z] GET /sesiones
+[2026-01-31T00:18:47.980Z] POST /sesiones/agregar
+[2026-01-31T00:18:47.981Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Viaje Astral Guiado ✨
+[2026-01-31T00:18:47.986Z] GET /sesiones
+[2026-01-31T00:18:48.562Z] POST /sesiones/agregar
+[2026-01-31T00:18:48.563Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Sanación Energética Colectiva 🔮
+[2026-01-31T00:18:48.569Z] GET /sesiones
+[2026-01-31T00:18:49.258Z] GET /perfil
+[2026-01-31T00:18:52.956Z] POST /perfil/eliminar
+[2026-01-31T00:18:52.956Z] Usuario yo.y.punto.spam@gmail.com eliminó sesión: Viaje Astral Guiado ✨
+[2026-01-31T00:18:52.961Z] GET /perfil
+[2026-01-31T00:18:53.550Z] POST /perfil/eliminar
+[2026-01-31T00:18:53.550Z] Usuario yo.y.punto.spam@gmail.com eliminó sesión: Sanación Energética Colectiva 🔮
+[2026-01-31T00:18:53.556Z] GET /perfil
+[2026-01-31T00:20:06.523Z] GET /perfil
+[2026-01-31T00:20:09.251Z] GET /sesiones
+[2026-01-31T00:20:12.335Z] GET /perfil
+[2026-01-31T00:20:15.160Z] GET /sesiones
+[2026-01-31T00:20:16.991Z] POST /sesiones/agregar
+[2026-01-31T00:20:16.991Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Sanación Energética Colectiva 🔮
+[2026-01-31T00:20:16.996Z] GET /sesiones
+[2026-01-31T00:20:18.245Z] GET /perfil
+[2026-01-31T00:20:20.631Z] POST /perfil/eliminar
+[2026-01-31T00:20:20.632Z] Usuario yo.y.punto.spam@gmail.com eliminó sesión: Sanación Energética Colectiva 🔮
+[2026-01-31T00:20:20.638Z] GET /perfil
+[2026-01-31T00:20:41.245Z] GET /.well-known/appspecific/com.chrome.devtools.json
+[2026-01-31T00:22:38.972Z] GET /perfil
+[2026-01-31T00:22:43.751Z] POST /logout
+[2026-01-31T00:22:43.756Z] GET /
+[2026-01-31T00:22:52.250Z] GET /login
+[2026-01-31T00:22:57.509Z] POST /login
+[2026-01-31T00:22:57.515Z] GET /perfil
+[2026-01-31T00:23:01.472Z] GET /sesiones
+[2026-01-31T00:23:02.509Z] POST /sesiones/agregar
+[2026-01-31T00:23:02.510Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Meditación Lunar 🌙
+[2026-01-31T00:23:02.515Z] GET /sesiones
+[2026-01-31T00:23:03.228Z] POST /sesiones/agregar
+[2026-01-31T00:23:03.228Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Viaje Astral Guiado ✨
+[2026-01-31T00:23:03.233Z] GET /sesiones
+[2026-01-31T00:23:03.811Z] POST /sesiones/agregar
+[2026-01-31T00:23:03.812Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Sanación Energética Colectiva 🔮
+[2026-01-31T00:23:03.816Z] GET /sesiones
+[2026-01-31T00:23:04.449Z] GET /perfil
+[2026-01-31T00:23:08.007Z] POST /perfil/eliminar
+[2026-01-31T00:23:08.007Z] Usuario yo.y.punto.spam@gmail.com eliminó sesión: Meditación Lunar 🌙
+[2026-01-31T00:23:08.013Z] GET /perfil
+[2026-01-31T00:23:08.843Z] POST /perfil/eliminar
+[2026-01-31T00:23:08.843Z] Usuario yo.y.punto.spam@gmail.com eliminó sesión: Viaje Astral Guiado ✨
+[2026-01-31T00:23:08.848Z] GET /perfil
+[2026-01-31T00:23:09.340Z] POST /perfil/eliminar
+[2026-01-31T00:23:09.341Z] Usuario yo.y.punto.spam@gmail.com eliminó sesión: Sanación Energética Colectiva 🔮
+[2026-01-31T00:23:09.345Z] GET /perfil
+[2026-01-31T00:24:02.447Z] GET /perfil
+[2026-01-31T00:24:41.585Z] GET /perfil
+[2026-01-31T00:24:44.688Z] GET /preferencias
+[2026-01-31T00:24:58.290Z] GET /perfil
+[2026-01-31T00:24:59.025Z] GET /perfil
+[2026-01-31T00:24:59.426Z] GET /perfil
+[2026-01-31T00:24:59.576Z] GET /perfil
+[2026-01-31T00:24:59.719Z] GET /perfil
+[2026-01-31T00:25:34.886Z] GET /perfil
+[2026-01-31T00:26:11.429Z] GET /perfil
+[2026-01-31T00:28:04.564Z] GET /perfil
+[2026-01-31T00:28:29.302Z] GET /perfil
+[2026-01-31T00:28:35.953Z] GET /perfil
+[2026-01-31T00:28:40.557Z] GET /perfil
+[2026-01-31T00:28:55.342Z] GET /perfil
+[2026-01-31T00:29:02.311Z] GET /perfil
+[2026-01-31T00:29:07.143Z] GET /preferencias
+[2026-01-31T00:29:13.738Z] POST /preferencias
+[2026-01-31T00:29:13.745Z] GET /preferencias
+[2026-01-31T00:29:24.559Z] POST /preferencias
+[2026-01-31T00:29:24.563Z] GET /preferencias
+[2026-01-31T00:29:28.648Z] GET /
+[2026-01-31T00:29:36.011Z] POST /logout
+[2026-01-31T00:29:36.018Z] GET /
+[2026-01-31T00:29:58.643Z] GET /login
+[2026-01-31T00:30:04.722Z] POST /login
+[2026-01-31T00:30:04.727Z] GET /perfil
+[2026-01-31T00:31:56.647Z] GET /perfil
+[2026-01-31T00:31:59.252Z] GET /preferencias
+[2026-01-31T00:32:01.806Z] POST /preferencias
+[2026-01-31T00:32:01.812Z] GET /preferencias
+[2026-01-31T00:32:03.348Z] POST /preferencias
+[2026-01-31T00:32:03.354Z] GET /preferencias
+[2026-01-31T00:32:10.177Z] GET /
+[2026-01-31T00:32:11.961Z] GET /perfil
+[2026-01-31T00:32:14.799Z] GET /sesiones
+[2026-01-31T00:32:15.762Z] POST /sesiones/agregar
+[2026-01-31T00:32:15.763Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Meditación Lunar 🌙
+[2026-01-31T00:32:15.769Z] GET /sesiones
+[2026-01-31T00:32:16.756Z] POST /sesiones/agregar
+[2026-01-31T00:32:16.761Z] GET /sesiones
+[2026-01-31T00:32:17.611Z] POST /sesiones/agregar
+[2026-01-31T00:32:17.616Z] GET /sesiones
+[2026-01-31T00:32:17.824Z] POST /sesiones/agregar
+[2026-01-31T00:32:17.829Z] GET /sesiones
+[2026-01-31T00:32:18.473Z] GET /perfil
+[2026-01-31T00:32:19.696Z] POST /perfil/eliminar
+[2026-01-31T00:32:19.697Z] Usuario yo.y.punto.spam@gmail.com eliminó sesión: Meditación Lunar 🌙
+[2026-01-31T00:32:19.704Z] GET /perfil
+[2026-01-31T00:32:27.671Z] GET /preferencias
+[2026-01-31T00:32:56.948Z] POST /preferencias
+[2026-01-31T00:32:56.954Z] GET /preferencias
+[2026-01-31T00:33:10.392Z] GET /preferencias
+[2026-01-31T00:33:10.708Z] GET /preferencias
+[2026-01-31T00:33:10.891Z] GET /preferencias
+[2026-01-31T00:33:11.060Z] GET /preferencias
+[2026-01-31T00:33:11.211Z] GET /preferencias
+[2026-01-31T00:33:13.117Z] POST /preferencias
+[2026-01-31T00:33:13.121Z] GET /preferencias
+[2026-01-31T00:34:07.285Z] GET /preferencias
+[2026-01-31T00:34:09.504Z] POST /preferencias
+[2026-01-31T00:34:09.509Z] GET /preferencias
+[2026-01-31T00:34:11.690Z] GET /
+[2026-01-31T00:34:14.692Z] GET /perfil
+[2026-01-31T00:34:19.071Z] GET /sesiones
+[2026-01-31T00:34:20.422Z] GET /perfil
+[2026-01-31T00:34:21.023Z] GET /preferencias
+[2026-01-31T00:34:22.915Z] POST /preferencias
+[2026-01-31T00:34:22.919Z] GET /preferencias
+[2026-01-31T00:34:24.414Z] GET /
+[2026-01-31T00:34:26.639Z] GET /perfil
+[2026-01-31T00:34:35.702Z] GET /preferencias
+[2026-01-31T00:34:37.181Z] GET /
+[2026-01-31T00:35:20.398Z] GET /
+[2026-01-31T00:35:27.472Z] GET /perfil
+[2026-01-31T00:35:29.129Z] GET /sesiones
+[2026-01-31T00:35:30.457Z] GET /perfil
+[2026-01-31T00:35:32.011Z] GET /preferencias
+[2026-01-31T00:35:34.052Z] GET /
+[2026-01-31T00:35:35.632Z] GET /preferencias
+[2026-01-31T00:35:36.474Z] GET /
+[2026-01-31T00:35:37.704Z] GET /sesiones
+[2026-01-31T00:35:39.012Z] POST /sesiones/agregar
+[2026-01-31T00:35:39.012Z] Usuario yo.y.punto.spam@gmail.com añadió sesión: Sanación Energética Colectiva 🔮
+[2026-01-31T00:35:39.017Z] GET /sesiones
+[2026-01-31T00:35:40.043Z] GET /perfil
+[2026-01-31T00:35:41.515Z] POST /perfil/eliminar
+[2026-01-31T00:35:41.516Z] Usuario yo.y.punto.spam@gmail.com eliminó sesión: Sanación Energética Colectiva 🔮
+[2026-01-31T00:35:41.520Z] GET /perfil
+[2026-01-31T00:35:42.843Z] GET /preferencias
+[2026-01-31T00:35:45.069Z] POST /preferencias
+[2026-01-31T00:35:45.076Z] GET /preferencias

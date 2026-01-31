@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Sueños Valenti</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body class="<%= tema %>">
+
+<h1>Sueños Valenti</h1>
+
+<p>
+En <strong>Sueños Valenti</strong> creemos que el verdadero crecimiento comienza cuando aprendemos a escuchar nuestra conciencia más profunda. 
+Por eso ofrecemos <strong>sesiones grupales de conexión con la supra conciencia</strong>, diseñadas para ayudarte a explorar tu mundo interior, armonizar tu energía y fortalecer el vínculo contigo mismo y con los demás.
+</p>
+
+<p>
+Nuestro espacio reúne a personas interesadas en la <strong>meditación consciente</strong>, la <strong>sanación energética</strong> y el <strong>desarrollo personal</strong>, creando un entorno seguro y respetuoso donde cada experiencia es compartida desde la calma y la introspección.
+</p>
+
+<p>
+A través de este portal podrás registrarte, personalizar tu experiencia, gestionar tus sesiones y formar parte de una comunidad que busca equilibrio, bienestar y conexión interior.
+</p>
+
+<p style="font-style: italic;">✨ Conecta. Siente. Evoluciona. ✨</p>
+
+<nav class="access">
+    <% if (!usuario) { %>
+        <a href="/login">Login</a> |
+        <a href="/registro">Registro</a>
+    <% } else { %>
+        <a href="/perfil">Mi Perfil</a> |
+        <a href="/sesiones">Sesiones</a> |
+        <a href="/preferencias">Preferencias</a>
+        <form action="/logout" method="POST" style="display:inline">
+            <button type="submit">Salir</button>
+        </form>
+    <% } %>
+</nav>
+
+</body>
+</html>

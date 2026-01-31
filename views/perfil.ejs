@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Perfil - Sueños Valenti</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body class="<%= tema %>">
+
+<h2>Zona privada</h2>
+<h3>Bienvenido/a, <%= usuario.nombre %></h3>
+
+<div class="card">
+    <p><strong>Email:</strong> <%= usuario.email %></p>
+    <p><strong>Edad:</strong> <%= usuario.edad %></p>
+    <p><strong>Ciudad:</strong> <%= usuario.ciudad %></p>
+    <p><strong>Intereses:</strong> <%= usuario.intereses %></p>
+</div>
+
+<h3>Tu Carrito Espiritual</h3>
+<% if (!carrito || carrito.length === 0) { %>
+    <p class="cart">Aún no has añadido sesiones.</p>
+<% } else { %>
+    <ul>
+        <% carrito.forEach(s => { %>
+            <li>
+                <%= s %>
+                <form action="/perfil/eliminar" method="POST" style="display:inline">
+                    <input type="hidden" name="sesion" value="<%= s %>">
+                    <button type="submit">Eliminar</button>
+                </form>
+            </li>
+        <% }) %>
+    </ul>
+<% } %>
+
+<p>
+    <a class= "access" href="/sesiones">Gestionar sesiones</a> |
+    <a class="access" href="/preferencias">Preferencias</a>
+</p>
+
+<form action="/logout" method="POST">
+    <button type="submit">Cerrar sesión</button>
+</form>
+
+</body>
+</html>

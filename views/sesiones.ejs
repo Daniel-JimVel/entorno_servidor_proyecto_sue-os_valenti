@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Sesiones - Sueños Valenti</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body class="<%= tema %>">
+
+<h2>Sesiones de Supra Conciencia</h2>
+
+<p>Selecciona las sesiones a las que deseas unirte:</p>
+
+<ul>
+    <li>
+        Meditación Lunar 🌙
+        <form action="/sesiones/agregar" method="POST" style="display:inline">
+            <input type="hidden" name="sesion" value="Meditación Lunar 🌙">
+            <button type="submit">Añadir al carrito</button>
+        </form>
+    </li>
+    <li>
+        Viaje Astral Guiado ✨
+        <form action="/sesiones/agregar" method="POST" style="display:inline">
+            <input type="hidden" name="sesion" value="Viaje Astral Guiado ✨">
+            <button type="submit">Añadir al carrito</button>
+        </form>
+    </li>
+    <li>
+        Sanación Energética Colectiva 🔮
+        <form action="/sesiones/agregar" method="POST" style="display:inline">
+            <input type="hidden" name="sesion" value="Sanación Energética Colectiva 🔮">
+            <button type="submit">Añadir al carrito</button>
+        </form>
+    </li>
+</ul>
+
+<a href="/perfil">Volver al perfil</a>
+
+</body>
+</html>

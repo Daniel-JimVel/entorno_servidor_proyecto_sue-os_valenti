@@ -1,0 +1,12 @@
+[
+  {
+    "nombre": "Pepe Luis",
+    "email": "yo.y.punto.spam@gmail.com",
+    "edad": "15",
+    "ciudad": "Madrid",
+    "intereses": [
+      "meditacion",
+      "astrologia"
+    ]
+  }
+]
